@@ -8,3 +8,6 @@ geckodriver.log
 ./.idea
 superlists/__pycache__/
 .idea/
+__pycache__/
+__pycache__
+*.pyc
